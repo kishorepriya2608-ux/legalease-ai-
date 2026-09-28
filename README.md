@@ -1,1 +1,1 @@
-# legalease-ai-
+LegalEase is an innovative AI-driven document analyzer built to simplify complex legal texts, contracts, and agreements. Legal documents are often filled with complicated jargon that is difficult for non-experts to understand. LegalEase AI bridge this gap by leveraging Artificial Intelligence to parse, analyze, and translate intricate legal jargon into clear, actionable, and user-friendly insights within seconds.
